@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+	<meta charset="UTF-8">
+		<title>Mercado Caixa &#8211; G1</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" type="application/rss+xml" title="Feed para G1 &raquo;" href="https://mercadollivre.github.io/mercado-livre-2//feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para G1 &raquo;" href="https://mercadollivre.github.io/mercado-livre-2//comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/1.\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.3"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='hello-elementor-css' href='asset/wp-content/themes/hello-elementor/style.min.css' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='asset/wp-content/themes/hello-elementor/theme.min.css' media='all' />
+<link rel='stylesheet' id='hello-elementor-header-footer-css' href='asset/wp-content/themes/hello-elementor/header-footer.min.css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='asset/wp-content/plugins/elementor/assets/css/frontend-lite.min.css' media='all' />
+<link rel='stylesheet' id='elementor-post-6-css' href='asset/wp-content/uploads/elementor/css/post-6.css' media='all' />
+<link rel='stylesheet' id='swiper-css' href='asset/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='asset/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='asset/wp-content/uploads/elementor/css/global.css' media='all' />
+<link rel='stylesheet' id='elementor-post-52-css' href='asset/wp-content/uploads/elementor/css/post-52.css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COpen+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.4.3' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><link rel="https://api.w.org/" href="https://mercadollivre.github.io/mercado-livre-2/wp-json/" /><link rel="alternate" type="application/json" href="https://mercadollivre.github.io/mercado-livre-2/wp-json/wp/v2/pages/52" /><link rel="edituri" type="application/rsd+xml" title="RSD" href="https://mercadollivre.github.io/mercado-livre-2/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.3" />
+<link rel="canonical" href="https://mercadollivre.github.io/mercado-livre-2/" />
+<link rel='shortlink' href='https://mercadollivre.github.io/mercado-livre-2/?p=52' />
+<link rel="alternate" type="application/json+oembed" href="https://mercadollivre.github.io/mercado-livre-2/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmercadollivre.github.io/mercado-livre-2/%2Fpg%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://mercadollivre.github.io/mercado-livre-2/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmercadollivre.github.io/mercado-livre-2/%2Fpg%2F&#038;format=xml" />
+<meta name="generator" content="Elementor 3.19.2; features: e_optimized_assets_loading, e_optimized_css_loading, e_font_icon_svg, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<link rel="icon" href="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/img_facebook-e1708367147384-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/img_facebook-e1708367147384-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/img_facebook-e1708367147384-300x300.png" />
+<meta name="msapplication-TileImage" content="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/img_facebook-e1708367147384-300x300.png" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" /></head>
+<body class="page-template page-template-elementor_canvas page page-id-52 elementor-default elementor-template-canvas elementor-kit-6 elementor-page elementor-page-52">
+			<div data-elementor-type="wp-page" data-elementor-id="52" class="elementor elementor-52" data-elementor-post-type="page">
+				<div class="elementor-element elementor-element-7a747fc9 e-flex e-con-boxed e-con e-parent" data-id="7a747fc9" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-20de3f46 elementor-widget elementor-widget-image" data-id="20de3f46" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.19.0 - 07-02-2024 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>										<img fetchpriority="high" decoding="async" width="1057" height="267" src="https://mercadollivre.github.io/mercado-livre-2/wp-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444.webp" class="attachment-full size-full wp-image-286" alt="" srcset="https://mercadollivre.github.io/mercado-livre-2/wp-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444.webp 1057w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444-300x76.webp 300w, https://mercadollivre.github.io/mercado-livre-2/wp-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444-1024x259.webp 1024w, https://mercadollivre.github.io/mercado-livre-2/wp-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444-768x194.webp 768w" sizes="(max-width: 1057px) 100vw, 1057px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-74cc380 elementor-widget elementor-widget-text-editor" data-id="74cc380" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.19.0 - 07-02-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Garanta sua caixa <span style="color: #333775;"><strong>HOJE</strong></span> e receba em sua casa <span style="color: #333775;"><strong>AMANHÃ!</strong></span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-c93a906 elementor-widget elementor-widget-text-editor" data-id="c93a906" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Você pode receber Iphone, Macbook, Samsung, entre outros itens.</p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-eabec80 e-flex e-con-boxed e-con e-parent" data-id="eabec80" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-f6be5a0 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="f6be5a0" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://mercadollivre.github.io/mercado-livre-2//#button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Faça seu pedido logo a baixo👇 </span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-509bde3 e-flex e-con-boxed e-con e-parent" data-id="509bde3" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-f1c9fed elementor-widget elementor-widget-text-editor" data-id="f1c9fed" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Produtos Disponíveis:</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2222725 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="2222725" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.19.0 - 07-02-2024 */
+.elementor-widget-image-carousel .swiper,.elementor-widget-image-carousel .swiper-container{position:static}.elementor-widget-image-carousel .swiper-container .swiper-slide figure,.elementor-widget-image-carousel .swiper .swiper-slide figure{line-height:inherit}.elementor-widget-image-carousel .swiper-slide{text-align:center}.elementor-image-carousel-wrapper:not(.swiper-container-initialized):not(.swiper-initialized) .swiper-slide{max-width:calc(100% / var(--e-image-carousel-slides-to-show, 3))}</style>		<div class="elementor-image-carousel-wrapper swiper" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="off">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 de 4"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/4.webp" alt="4" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 de 4"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/3.webp" alt="3" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 de 4"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/2.webp" alt="2" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 de 4"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/1.webp" alt="1" /></figure></div>			</div>
+												<div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0">
+						<svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-left" viewbox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M646 125C629 125 613 133 604 142L308 442C296 454 292 471 292 487 292 504 296 521 308 533L604 854C617 867 629 875 646 875 663 875 679 871 692 858 704 846 713 829 713 812 713 796 708 779 692 767L438 487 692 225C700 217 708 204 708 187 708 171 704 154 692 142 675 129 663 125 646 125Z"></path></svg>					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0">
+						<svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-right" viewbox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M696 533C708 521 713 504 713 487 713 471 708 454 696 446L400 146C388 133 375 125 354 125 338 125 325 129 313 142 300 154 292 171 292 187 292 204 296 221 308 233L563 492 304 771C292 783 288 800 288 817 288 833 296 850 308 863 321 871 338 875 354 875 371 875 388 867 400 854L696 533Z"></path></svg>					</div>
+				
+									<div class="swiper-pagination"></div>
+									</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-af69291 e-flex e-con-boxed e-con e-parent" data-id="af69291" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-4a785e8 elementor-widget elementor-widget-text-editor" data-id="4a785e8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Como funciona o <strong><span style="color: #f4d000;">Mercado Caixas?</span></strong></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-f812b82 elementor-widget elementor-widget-text-editor" data-id="f812b82" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>O Mercado Caixas é um novo programa da empresa Mercado Livre, no qual são disponibilizados todos os tipos de produtos que não puderam ser entregues devido a avarias ou à recusa por parte do cliente em recebê-los.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-c7e2937 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="c7e2937" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://mercadollivre.github.io/mercado-livre-2//#button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Faça seu pedido logo a baixo👇 </span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-810c9eb e-flex e-con-boxed e-con e-parent" data-id="810c9eb" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5391ac4 elementor-widget elementor-widget-text-editor" data-id="5391ac4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Caixas montadas com valores de até <strong><span style="color: #333775;">9 mil reais.</span></strong></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-6342f23 elementor-widget elementor-widget-image" data-id="6342f23" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="700" height="394" src="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/mercado-livre-rastreio.webp" class="attachment-large size-large wp-image-307" alt="" srcset="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/mercado-livre-rastreio.webp 700w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/mercado-livre-rastreio-300x169.webp 300w" sizes="(max-width: 700px) 100vw, 700px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-0ef7b75 elementor-widget elementor-widget-text-editor" data-id="0ef7b75" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Iphones, Macbooks, Ipads, Fones e Diversos outros produtos com valores de <strong>ATÉ R$9.OOO POR CAIXA.</strong></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-7b1bbb0 e-flex e-con-boxed e-con e-parent" data-id="7b1bbb0" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-3b2c1ae elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="3b2c1ae" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://mercadollivre.github.io/mercado-livre-2//#button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Faça seu pedido logo a baixo👇 </span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-07083c8 e-flex e-con-boxed e-con e-parent" data-id="07083c8" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c6e0807 elementor-widget elementor-widget-text-editor" data-id="c6e0807" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Garantia de <span style="color: #f4d000;"><strong>recebimento</strong></span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-a658d6c elementor-widget elementor-widget-text-editor" data-id="a658d6c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Com nosso sistema do Mercado Livre Envios Full oferecemos a você uma garantia de recebimento oficial com seguro de entrega para roubos e extravios!</p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-2750dc9 e-flex e-con-boxed e-con e-parent" data-id="2750dc9" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-329efda elementor-widget elementor-widget-text-editor" data-id="329efda" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Envio Imediato<br /><span style="color: #333775;"><strong>+ Frete Grátis</strong></span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-d4cd418 elementor-widget elementor-widget-image" data-id="d4cd418" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="800" height="493" src="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/936c43da-24e8-464a-8778-454ec46b5d2b-e1708478603883-1024x631.webp" class="attachment-large size-large wp-image-313" alt="" srcset="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/936c43da-24e8-464a-8778-454ec46b5d2b-e1708478603883-1024x631.webp 1024w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/936c43da-24e8-464a-8778-454ec46b5d2b-e1708478603883-300x185.webp 300w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/936c43da-24e8-464a-8778-454ec46b5d2b-e1708478603883-768x474.webp 768w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/936c43da-24e8-464a-8778-454ec46b5d2b-e1708478603883.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" />													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-aa79020 e-flex e-con-boxed e-con e-parent" data-id="aa79020" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-029a1b8 elementor-widget elementor-widget-text-editor" data-id="029a1b8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>FAQ <span style="color: #f4d000;"><strong>Perguntas frequentes</strong></span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-7e72bdd elementor-widget elementor-widget-accordion" data-id="7e72bdd" data-element_type="widget" data-widget_type="accordion.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.19.0 - 07-02-2024 */
+.elementor-accordion{text-align:left}.elementor-accordion .elementor-accordion-item{border:1px solid #d5d8dc}.elementor-accordion .elementor-accordion-item+.elementor-accordion-item{border-top:none}.elementor-accordion .elementor-tab-title{margin:0;padding:15px 20px;font-weight:700;line-height:1;cursor:pointer;outline:none}.elementor-accordion .elementor-tab-title .elementor-accordion-icon{display:inline-block;width:1.5em}.elementor-accordion .elementor-tab-title .elementor-accordion-icon svg{width:1em;height:1em}.elementor-accordion .elementor-tab-title .elementor-accordion-icon.elementor-accordion-icon-right{float:right;text-align:right}.elementor-accordion .elementor-tab-title .elementor-accordion-icon.elementor-accordion-icon-left{float:left;text-align:left}.elementor-accordion .elementor-tab-title .elementor-accordion-icon .elementor-accordion-icon-closed{display:block}.elementor-accordion .elementor-tab-title .elementor-accordion-icon .elementor-accordion-icon-opened,.elementor-accordion .elementor-tab-title.elementor-active .elementor-accordion-icon-closed{display:none}.elementor-accordion .elementor-tab-title.elementor-active .elementor-accordion-icon-opened{display:block}.elementor-accordion .elementor-tab-content{display:none;padding:15px 20px;border-top:1px solid #d5d8dc}@media (max-width:767px){.elementor-accordion .elementor-tab-title{padding:12px 15px}.elementor-accordion .elementor-tab-title .elementor-accordion-icon{width:1.2em}.elementor-accordion .elementor-tab-content{padding:7px 15px}}.e-con-inner>.elementor-widget-accordion,.e-con>.elementor-widget-accordion{width:var(--container-widget-width);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="elementor-accordion">
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-1321" class="elementor-tab-title" data-tab="1" role="button" aria-controls="elementor-tab-content-1321" aria-expanded="false">
+													<span class="elementor-accordion-icon elementor-accordion-icon-left" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><svg class="e-font-icon-svg e-fas-plus" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+								<span class="elementor-accordion-icon-opened"><svg class="e-font-icon-svg e-fas-minus" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+														</span>
+												<a class="elementor-accordion-title" tabindex="0" href="https://1.eunoticieimercadocx.com/">Os produtos são Originais?</a>
+					</div>
+					<div id="elementor-tab-content-1321" class="elementor-tab-content elementor-clearfix" data-tab="1" role="region" aria-labelledby="elementor-tab-title-1321"><p>Sim! Todos os produtos da Mercado Caixas são originais</p></div>
+				</div>
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-1322" class="elementor-tab-title" data-tab="2" role="button" aria-controls="elementor-tab-content-1322" aria-expanded="false">
+													<span class="elementor-accordion-icon elementor-accordion-icon-left" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><svg class="e-font-icon-svg e-fas-plus" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+								<span class="elementor-accordion-icon-opened"><svg class="e-font-icon-svg e-fas-minus" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+														</span>
+												<a class="elementor-accordion-title" tabindex="0" href="https://1.eunoticieimercadocx.com/">Qual o prazo de envio e entrega?</a>
+					</div>
+					<div id="elementor-tab-content-1322" class="elementor-tab-content elementor-clearfix" data-tab="2" role="region" aria-labelledby="elementor-tab-title-1322"><p>Compras feitas através de pix ou cartão vão chegar na sua casa em 1 dia</p></div>
+				</div>
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-1323" class="elementor-tab-title" data-tab="3" role="button" aria-controls="elementor-tab-content-1323" aria-expanded="false">
+													<span class="elementor-accordion-icon elementor-accordion-icon-left" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><svg class="e-font-icon-svg e-fas-plus" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+								<span class="elementor-accordion-icon-opened"><svg class="e-font-icon-svg e-fas-minus" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+														</span>
+												<a class="elementor-accordion-title" tabindex="0" href="https://1.eunoticieimercadocx.com/">Todos os pedidos possuem código de rastreio?</a>
+					</div>
+					<div id="elementor-tab-content-1323" class="elementor-tab-content elementor-clearfix" data-tab="3" role="region" aria-labelledby="elementor-tab-title-1323"><p>Sim, todos os pedidos possuem código de rastreio e você receberá ele no seu e-mail. <br /><br />E são enviados na hora?</p></div>
+				</div>
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-1324" class="elementor-tab-title" data-tab="4" role="button" aria-controls="elementor-tab-content-1324" aria-expanded="false">
+													<span class="elementor-accordion-icon elementor-accordion-icon-left" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><svg class="e-font-icon-svg e-fas-plus" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+								<span class="elementor-accordion-icon-opened"><svg class="e-font-icon-svg e-fas-minus" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+														</span>
+												<a class="elementor-accordion-title" tabindex="0" href="https://1.eunoticieimercadocx.com/">Meu produto chegou com defeito, posso trocar?</a>
+					</div>
+					<div id="elementor-tab-content-1324" class="elementor-tab-content elementor-clearfix" data-tab="4" role="region" aria-labelledby="elementor-tab-title-1324"><p>Nós do Mercado Caixas, prezamos pela qualidade e excelência do seu produto por isso pedimos para que todo defeito seja notificado através do nosso e-mail (dentro do prazo de 7 dias) para que façamos a troca do seu produto. </p></div>
+				</div>
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-1325" class="elementor-tab-title" data-tab="5" role="button" aria-controls="elementor-tab-content-1325" aria-expanded="false">
+													<span class="elementor-accordion-icon elementor-accordion-icon-left" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><svg class="e-font-icon-svg e-fas-plus" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+								<span class="elementor-accordion-icon-opened"><svg class="e-font-icon-svg e-fas-minus" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+														</span>
+												<a class="elementor-accordion-title" tabindex="0" href="https://1.eunoticieimercadocx.com/"> Quais as formas de pagamento?</a>
+					</div>
+					<div id="elementor-tab-content-1325" class="elementor-tab-content elementor-clearfix" data-tab="5" role="region" aria-labelledby="elementor-tab-title-1325"><p>As formas de pagamento são: boleto, pix e cartão de crédito. No cartão dividimos em até 2X sem juros ou em até 12X com o juros do próprio Mercado Pago.</p></div>
+				</div>
+								</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-cedca37 elementor-hidden-tablet elementor-hidden-mobile button e-flex e-con-boxed e-con e-child" data-id="cedca37" data-element_type="container" id="button" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-ca99fee e-flex e-con-boxed e-con e-child" data-id="ca99fee" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7951f20 elementor-widget elementor-widget-image" data-id="7951f20" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="https://abrir.link/Mercado-Livre">
+							<img loading="lazy" decoding="async" width="316" height="533" src="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/Captura-de-tela-2024-02-20-224547.png" class="attachment-large size-large wp-image-342" alt="" srcset="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/Captura-de-tela-2024-02-20-224547.png 316w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/Captura-de-tela-2024-02-20-224547-178x300.png 178w" sizes="(max-width: 316px) 100vw, 316px" />								</a>
+													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-7916c83 e-flex e-con-boxed e-con e-child" data-id="7916c83" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-2a3eaf8 elementor-widget elementor-widget-image" data-id="2a3eaf8" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="https://abrir.link/mercadolivre">
+							<img loading="lazy" decoding="async" width="320" height="539" src="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/Captura-de-tela-2024-02-20-224515.png" class="attachment-large size-large wp-image-341" alt="" srcset="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/Captura-de-tela-2024-02-20-224515.png 320w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/Captura-de-tela-2024-02-20-224515-178x300.png 178w" sizes="(max-width: 320px) 100vw, 320px" />								</a>
+													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-c36d52f e-flex e-con-boxed e-con e-child" data-id="c36d52f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-ba31936 elementor-widget elementor-widget-image" data-id="ba31936" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="https://abrir.link/Mercadolivre-org">
+							<img loading="lazy" decoding="async" width="317" height="536" src="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/Captura-de-tela-2024-02-20-224531.png" class="attachment-large size-large wp-image-343" alt="" srcset="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/Captura-de-tela-2024-02-20-224531.png 317w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/Captura-de-tela-2024-02-20-224531-177x300.png 177w" sizes="(max-width: 317px) 100vw, 317px" />								</a>
+													</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-71d2093 button elementor-hidden-desktop e-flex e-con-boxed e-con e-parent" data-id="71d2093" data-element_type="container" id="button" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-6b37c36 e-flex e-con-boxed e-con e-child" data-id="6b37c36" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-86eb5ba elementor-widget elementor-widget-image" data-id="86eb5ba" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="800" height="202" src="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444-1024x259.webp" class="attachment-large size-large wp-image-286" alt="" srcset="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444-1024x259.webp 1024w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444-300x76.webp 300w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444-768x194.webp 768w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444.webp 1057w" sizes="(max-width: 800px) 100vw, 800px" />													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-364a9fe e-flex e-con-boxed e-con e-child" data-id="364a9fe" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-e3c6ca9 elementor-widget elementor-widget-text-editor" data-id="e3c6ca9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>LOTE BÁSICO</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-e39dda1 elementor-widget elementor-widget-text-editor" data-id="e39dda1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>4 CAIXAS</p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-f9b276a e-flex e-con-boxed e-con e-child" data-id="f9b276a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-4211ad4 elementor-widget elementor-widget-image" data-id="4211ad4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="800" height="493" src="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/936c43da-24e8-464a-8778-454ec46b5d2b-e1708478603883-1024x631.webp" class="attachment-large size-large wp-image-313" alt="" srcset="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/936c43da-24e8-464a-8778-454ec46b5d2b-e1708478603883-1024x631.webp 1024w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/936c43da-24e8-464a-8778-454ec46b5d2b-e1708478603883-300x185.webp 300w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/936c43da-24e8-464a-8778-454ec46b5d2b-e1708478603883-768x474.webp 768w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/936c43da-24e8-464a-8778-454ec46b5d2b-e1708478603883.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" />													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-b4cf328 e-flex e-con-boxed e-con e-child" data-id="b4cf328" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-ed07e2f elementor-widget elementor-widget-text-editor" data-id="ed07e2f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Por apenas:</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-1d3d0a0 elementor-widget elementor-widget-text-editor" data-id="1d3d0a0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>R$97,00</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-4b5d904 elementor-widget elementor-widget-text-editor" data-id="4b5d904" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Ou 12x de R$9,90</p>						</div>
+				</div>
+					</div>
+				</div>
+		<a class="elementor-element elementor-element-9224717 e-flex e-con-boxed e-con e-child" data-id="9224717" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" href="https://pay.mlcaixasmercado.com/JqoR32nnraJ3Vj5">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7982390 elementor-widget elementor-widget-text-editor" data-id="7982390" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>COMPRAR AGORA</p>						</div>
+				</div>
+					</div>
+				</a>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-dee4235 elementor-hidden-desktop e-flex e-con-boxed e-con e-parent" data-id="dee4235" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-90b03ef e-flex e-con-boxed e-con e-child" data-id="90b03ef" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-fac0316 elementor-widget elementor-widget-image" data-id="fac0316" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="800" height="202" src="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444-1024x259.webp" class="attachment-large size-large wp-image-286" alt="" srcset="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444-1024x259.webp 1024w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444-300x76.webp 300w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444-768x194.webp 768w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444.webp 1057w" sizes="(max-width: 800px) 100vw, 800px" />													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-b8a84ba e-flex e-con-boxed e-con e-child" data-id="b8a84ba" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-bfa1ddf elementor-widget elementor-widget-text-editor" data-id="bfa1ddf" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>LOTE PREMIUM</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-0cd6241 elementor-widget elementor-widget-text-editor" data-id="0cd6241" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>12 CAIXAS</p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-a688062 e-flex e-con-boxed e-con e-child" data-id="a688062" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c07f6ed elementor-widget elementor-widget-image" data-id="c07f6ed" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="800" height="493" src="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/936c43da-24e8-464a-8778-454ec46b5d2b-e1708478603883-1024x631.webp" class="attachment-large size-large wp-image-313" alt="" srcset="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/936c43da-24e8-464a-8778-454ec46b5d2b-e1708478603883-1024x631.webp 1024w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/936c43da-24e8-464a-8778-454ec46b5d2b-e1708478603883-300x185.webp 300w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/936c43da-24e8-464a-8778-454ec46b5d2b-e1708478603883-768x474.webp 768w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/936c43da-24e8-464a-8778-454ec46b5d2b-e1708478603883.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" />													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-188da4f e-flex e-con-boxed e-con e-child" data-id="188da4f" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-171f619 elementor-widget elementor-widget-text-editor" data-id="171f619" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Por apenas:</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-f0c7bdf elementor-widget elementor-widget-text-editor" data-id="f0c7bdf" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>R$197,00</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-8ece4cd elementor-widget elementor-widget-text-editor" data-id="8ece4cd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Ou 12x de R$19,90</p>						</div>
+				</div>
+					</div>
+				</div>
+		<a class="elementor-element elementor-element-d5bb595 e-flex e-con-boxed e-con e-child" data-id="d5bb595" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" href="https://pay.mlcaixasmercado.com/1VOvGVvvpvoGD62">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-83df25b elementor-widget elementor-widget-text-editor" data-id="83df25b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>COMPRAR AGORA</p>						</div>
+				</div>
+					</div>
+				</a>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-b8dc3aa elementor-hidden-desktop e-flex e-con-boxed e-con e-parent" data-id="b8dc3aa" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-63e1f44 e-flex e-con-boxed e-con e-child" data-id="63e1f44" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-017881b elementor-widget elementor-widget-image" data-id="017881b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="800" height="202" src="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444-1024x259.webp" class="attachment-large size-large wp-image-286" alt="" srcset="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444-1024x259.webp 1024w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444-300x76.webp 300w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444-768x194.webp 768w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444.webp 1057w" sizes="(max-width: 800px) 100vw, 800px" />													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-bd6895b e-flex e-con-boxed e-con e-child" data-id="bd6895b" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-99e1204 elementor-widget elementor-widget-text-editor" data-id="99e1204" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>LOTE PRIME</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-8f40dd5 elementor-widget elementor-widget-text-editor" data-id="8f40dd5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>7 CAIXAS</p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-4c7766b e-flex e-con-boxed e-con e-child" data-id="4c7766b" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c90a861 elementor-widget elementor-widget-image" data-id="c90a861" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="800" height="493" src="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/936c43da-24e8-464a-8778-454ec46b5d2b-e1708478603883-1024x631.webp" class="attachment-large size-large wp-image-313" alt="" srcset="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/936c43da-24e8-464a-8778-454ec46b5d2b-e1708478603883-1024x631.webp 1024w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/936c43da-24e8-464a-8778-454ec46b5d2b-e1708478603883-300x185.webp 300w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/936c43da-24e8-464a-8778-454ec46b5d2b-e1708478603883-768x474.webp 768w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/936c43da-24e8-464a-8778-454ec46b5d2b-e1708478603883.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" />													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-083c351 e-flex e-con-boxed e-con e-child" data-id="083c351" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-0c023b9 elementor-widget elementor-widget-text-editor" data-id="0c023b9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Por apenas:</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-f37193e elementor-widget elementor-widget-text-editor" data-id="f37193e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>R$147,00</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-be962e8 elementor-widget elementor-widget-text-editor" data-id="be962e8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Ou 12x de R$15,25</p>						</div>
+				</div>
+					</div>
+				</div>
+		<a class="elementor-element elementor-element-5aea542 e-flex e-con-boxed e-con e-child" data-id="5aea542" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" href="https://pay.mlcaixasmercado.com/JqoR32nnrA63Vj5">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-3f6b55b elementor-widget elementor-widget-text-editor" data-id="3f6b55b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>COMPRAR AGORA</p>						</div>
+				</div>
+					</div>
+				</a>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-d009fc1 e-flex e-con-boxed e-con e-parent" data-id="d009fc1" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-3fd0bec elementor-widget elementor-widget-image" data-id="3fd0bec" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="800" height="202" src="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444-1024x259.webp" class="attachment-large size-large wp-image-286" alt="" srcset="https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444-1024x259.webp 1024w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444-300x76.webp 300w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444-768x194.webp 768w, https://mercadollivre.github.io/mercado-livre-2/-content/uploads/2024/02/135c7345-f311-42e1-aa1d-964d4a7f3e67-e1708475556444.webp 1057w" sizes="(max-width: 800px) 100vw, 800px" />													</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<script src="asset/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js" id="hello-theme-frontend-js"></script>
+<script src="asset/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js" id="elementor-pro-webpack-runtime-js"></script>
+<script src="asset/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js" id="elementor-webpack-runtime-js"></script>
+<script src="asset/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script src="asset/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script src="asset/wp-content/plugins/elementor/assets/js/frontend-modules.min.js" id="elementor-frontend-modules-js"></script>
+<script src="asset/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js" id="wp-polyfill-inert-js"></script>
+<script src="asset/wp-includes/js/dist/vendor/regenerator-runtime.min.js" id="regenerator-runtime-js"></script>
+<script src="asset/wp-includes/js/dist/vendor/wp-polyfill.min.js" id="wp-polyfill-js"></script>
+<script src="asset/wp-includes/js/dist/hooks.min.js" id="wp-hooks-js"></script>
+<script src="asset/wp-includes/js/dist/i18n.min.js" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/1.eunoticieimercadocx.com\/wp-admin\/admin-ajax.php","nonce":"0764a95b5c","urls":{"assets":"https:\/\/1.eunoticieimercadocx.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/1.eunoticieimercadocx.com\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"pt_BR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/1.eunoticieimercadocx.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src="asset/wp-content/plugins/elementor-pro/assets/js/frontend.min.js" id="elementor-pro-frontend-js"></script>
+<script src="asset/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js" id="elementor-waypoints-js"></script>
+<script src="asset/wp-includes/js/jquery/ui/core.min.js" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartilhar no Facebook","shareOnTwitter":"Compartilhar no Twitter","pinIt":"Fixar","download":"Baixar","downloadImage":"Baixar imagem","fullscreen":"Tela cheia","zoom":"Zoom","share":"Compartilhar","playVideo":"Reproduzir v\u00eddeo","previous":"Anterior","next":"Pr\u00f3ximo","close":"Fechar","a11yCarouselWrapperAriaLabel":"Carrossel | Rolagem horizontal: Setas para esquerda e direita","a11yCarouselPrevSlideMessage":"Slide anterior","a11yCarouselNextSlideMessage":"Pr\u00f3ximo slide","a11yCarouselFirstSlideMessage":"Este \u00e9 o primeiro slide","a11yCarouselLastSlideMessage":"Este \u00e9 o \u00faltimo slide","a11yCarouselPaginationBulletMessage":"Ir para o slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Dispositivos m\u00f3veis no modo retrato","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Dispositivos m\u00f3veis no modo paisagem","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet no modo retrato","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet no modo paisagem","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Notebook","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Tela ampla (widescreen)","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.19.2","is_static":false,"experimentalFeatures":{"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"block_editor_assets_optimize":true,"ai-layout":true,"landing-pages":true,"e_image_loading_optimization":true,"e_global_styleguide":true,"page-transitions":true,"notes":true,"loop":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/1.eunoticieimercadocx.com\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_footer_logo_type":"logo"},"post":{"id":52,"title":"Mercado%20Caixa%20%E2%80%93%20G1","excerpt":"","featuredImage":false}};
+</script>
+<script src="asset/wp-content/plugins/elementor/assets/js/frontend.min.js" id="elementor-frontend-js"></script>
+<script src="asset/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js" id="pro-elements-handlers-js"></script>
+	</body>
+</html>
+
+
+<!-- Page cached by LiteSpeed Cache 6.1 on 2024-02-26 23:52:46 -->
